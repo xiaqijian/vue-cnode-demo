@@ -2,6 +2,8 @@
 
 > A Vue.js project
 
+预览地址[vue-cnode](http://demo.zhinenganquan.cn:3002/vue-cnode/#/)
+
 ## Build Setup
 
 ``` bash
